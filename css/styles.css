@@ -1,5 +1,6 @@
-html, body{
-    background-color: #FFC300;
+body{
+    background-color: black;
+    color: white;
 }
 
 p{
@@ -8,8 +9,4 @@ p{
 
 h1{
     text-align: center;
-}
-
-.container{
-    color: white;
 }
